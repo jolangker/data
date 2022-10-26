@@ -1,0 +1,54 @@
+{
+  "debts": [
+    {
+      "id": 1,
+      "name": "Thoriq",
+      "details": [
+        {
+          "label": "Sosis Comifuro",
+          "value": 45000
+        },
+        {
+          "label": "Mie telor malem",
+          "value": 5000
+        },
+        {
+          "label": "Nescafe kaleng",
+          "value": 7000
+        },
+        {
+          "label": "Roti",
+          "value": 6000
+        },
+        {
+          "label": "Kopken",
+          "value": 8000
+        },
+        {
+          "label": "Titoti",
+          "value": 30000
+        },
+        {
+          "label": "Kopken",
+          "value": 10500
+        },
+        {
+          "label": "Cimori",
+          "value": 7000
+        },
+        {
+          "label": "Mie Sedap",
+          "value": 5000
+        },
+        {
+          "label": "Atep",
+          "value": 30000
+        },
+        {
+          "label": "Bensin",
+          "value": 6000
+        }
+      ]
+    }
+  ]
+}
