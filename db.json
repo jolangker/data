@@ -2,53 +2,69 @@
   "debts": [
     {
       "id": 1,
-      "name": "Thoriq",
-      "details": [
-        {
-          "label": "Sosis Comifuro",
-          "value": 45000
-        },
-        {
-          "label": "Mie telor malem",
-          "value": 5000
-        },
-        {
-          "label": "Nescafe kaleng",
-          "value": 7000
-        },
-        {
-          "label": "Roti",
-          "value": 6000
-        },
-        {
-          "label": "Kopken",
-          "value": 8000
-        },
-        {
-          "label": "Titoti",
-          "value": 30000
-        },
-        {
-          "label": "Kopken",
-          "value": 10500
-        },
-        {
-          "label": "Cimori",
-          "value": 7000
-        },
-        {
-          "label": "Mie Sedap",
-          "value": 5000
-        },
-        {
-          "label": "Atep",
-          "value": 30000
-        },
-        {
-          "label": "Bensin",
-          "value": 6000
-        }
-      ]
+      "label": "Sosis Comifuro",
+      "value": 45000,
+      "paid": false
+    },
+    {
+      "id": 2,
+      "label": "Mie telor malem",
+      "value": 5000,
+      "paid": false
+    },
+    {
+      "id": 3,
+      "label": "Nescafe kaleng",
+      "value": 7000,
+      "paid": false
+    },
+    {
+      "id": 4,
+      "label": "Roti",
+      "value": 6000,
+      "paid": false
+    },
+    {
+      "id": 5,
+      "label": "Kopken",
+      "value": 8000,
+      "paid": false
+    },
+    {
+      "id": 6,
+      "label": "Titoti",
+      "value": 30000,
+      "paid": false
+    },
+    {
+      "id": 7,
+      "label": "Kopken",
+      "value": 10500,
+      "paid": false
+    },
+    {
+      "id": 8,
+      "label": "Cimori",
+      "value": 7000,
+      "paid": false
+    },
+    {
+      "id": 9,
+      "label": "Mie Sedap",
+      "value": 5000,
+      "paid": false
+    },
+    {
+      "id": 10,
+      "label": "Atep",
+      "value": 30000,
+      "paid": false
+    },
+    {
+      "id": 11,
+      "label": "Bensin",
+      "value": 6000,
+      "paid": false
     }
   ]
 }
